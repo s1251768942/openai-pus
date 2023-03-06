@@ -1,6 +1,6 @@
 # ChatGPT-API Vercel
 
-![](assets/screenshot.png)
+![](）
 
 对 [diu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 进行功能上的增强。
 
